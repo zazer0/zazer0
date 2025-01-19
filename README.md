@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 <!--
 **zazer0/zazer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working at **Strong Compute**, a YC-backed GPU Infrastructure startup to make ML Engineering faster ⚡️
+- 🌱 I’m currently learning _Elixir_, a more-niche-than Haskell functional programming language
+- 🤔 I’d love advice on self-hosting a remote MCP server!
+- 💬 Ask me about free GPU credits if you're a researcher studying AI Safety!
+- 😄 Pronouns: he/they
+- ⚡ Fun fact: bash secretly runs the world 😛
+- 📫 How to reach me: https://linkedin.com/in/z-saber
+- 🤗 Feel free to reach out if any of the above interests you - let's call or grab a coffee ☕️
