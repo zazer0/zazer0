@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🚀 I’m currently working at **Strong Compute**, a YC-backed GPU Infra startup to turbocharge ML Engineers ⚡️
-- 🌱 I’m currently learning _Elixir_, a more-niche-than Haskell functional programming language
-- 🤔 I’d love advice on self-hosting a remote MCP server!
-- 💬 Ask me about free GPU credits if you're a researcher studying AI Safety!
-- 😄 Pronouns: he/they
-- ⚡ Fun fact: bash secretly runs the world 😛
-- 📫 How to reach me: https://linkedin.com/in/z-saber
-- 🤗 Feel free to reach out if any of the above interests you - let's call or grab a coffee ☕️
+- 🚀 Hi, I’m Zac - ex-Atlassian infosec, I'm focusing on upskilling in technical interpretability.
+- 🌱 Currently, I'm doing an irl ARENA program in Sydney (TARA); project on automating alignment tools.
+- ⚡️ Previously, I did Frontend + ML Engineering at Strong Compute, a YC startup democratising ML training
+- 🍰 During my CS degree, I enjoyed hosting a beginner-focused cybersecurity conference - SCONES!
+- 🚩 My guilty pleasure is that I enjoy writing bash scripts 😛
+- 📫 How to get in touch: https://linkedin.com/in/z-saber
+- 🤗 Reach out if something above interests you - let's call or grab a coffee :)
