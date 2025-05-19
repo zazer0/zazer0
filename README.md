@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Current Projects: https://demo.cazerzero.com
 
 - 🚀 Hi, I’m Zac - ex-Atlassian infosec, I'm focusing on upskilling in technical interpretability.
 - 🌱 Currently, I'm doing an irl ARENA program in Sydney (TARA); project on automating alignment tools.
