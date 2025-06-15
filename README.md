@@ -19,7 +19,7 @@ Current Projects: https://demo.cazerzero.com
 - 🚀 Hi, I’m Zac - ex-Atlassian infosec, I'm focusing on using my Fullstack skills for Alignment.
 - 🌱 Recently, I did an irl ARENA program in Sydney (TARA); project on automating researcher tools.
 - ⚡️ Previously, I did Frontend + ML Eng at Strong Compute in SF, a YC startup democratising ML training.
-- 🍰 During my CS degree, I enjoyed hosting a beginner-focused cybersecurity conference - SCONES!
+- 🍰 During my CS degree, I enjoyed hosting an introductory educational cybersecurity conference - SCONES!
 - 🚩 My guilty pleasure is that I enjoy writing bash scripts 😛
 - 📫 How to get in touch: https://linkedin.com/in/z-saber
 - 🤗 Reach out if something above interests you - let's call or grab a coffee :)
