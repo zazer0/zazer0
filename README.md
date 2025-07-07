@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Current Projects: https://demo.cazerzero.com
 
-- 🚀 Hi, I’m Zac - ex-Atlassian infosec, I'm focusing on using my Fullstack skills for Alignment.
+- 🚀 Hi, I’m Zac - ex-Atlassian infosec, I'm currently deploying agents with Kubernetes, using Terraform.
 - 🌱 Recently, I did an irl ARENA program in Sydney (TARA); project on automating researcher tools.
 - ⚡️ Previously, I did Frontend + ML Eng at Strong Compute in SF, a YC startup democratising ML training.
 - 🍰 During my CS degree, I enjoyed hosting an introductory educational cybersecurity conference - SCONES!
