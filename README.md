@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 Hosted Projects: https://demo.cazerzero.com
 
-- 🚀 Hi, I’m Zac - ex-Atlassian, I’m a Platform + Software Engineer with 5 years of security expertise; focusing AI infra.
+- 🚀 Hi, I’m Zac - ex-Atlassian, I’m an infra Software Engineer with 5 years of security expertise; focusing AI stacks.
   - ✈️ I moved to SF in January of 2026; funded by the [Seldon Lab](https://seldonlab.com/) accelerator to build an AI Security infra startup.
+
 - ⚡️ Previously, I did Frontend + ML Eng at Strong Compute in SF, a YC startup democratising ML training.
   - 🌱 In 2024, I did an irl ARENA program in Sydney (TARA); project on automating researcher tools.
 - 🍰 During my CS degree, I enjoyed hosting an introductory educational cybersecurity conference - SCONES!
