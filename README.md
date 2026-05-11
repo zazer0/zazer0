@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hosted Projects: https://demo.cazerzero.com
+
 LinkedIn: https://linkedin.com/in/z-saber
 
 - 🚀 Hi, I’m Zac - ex-Atlassian, I’m a Platform + Software Engineer with 5 years of security expertise; focusing AI infra.
