@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Current Projects: https://demo.cazerzero.com
+Hosted Projects: https://demo.cazerzero.com
+LinkedIn: https://linkedin.com/in/z-saber
 
-- 🚀 Hi, I’m Zac - ex-Atlassian infosec, I'm currently deploying agents with Kubernetes, using Terraform.
-- 🌱 Recently, I did an irl ARENA program in Sydney (TARA); project on automating researcher tools.
+- 🚀 Hi, I’m Zac - ex-Atlassian, I’m a Platform + Software Engineer with 5 years of security expertise; focusing AI infra.
+  - ✈️ I moved to SF in January of 2026; funded by the [Seldon Lab](https://seldonlab.com/) accelerator to build an AI Security infra startup.
 - ⚡️ Previously, I did Frontend + ML Eng at Strong Compute in SF, a YC startup democratising ML training.
+  - 🌱 In 2024, I did an irl ARENA program in Sydney (TARA); project on automating researcher tools.
 - 🍰 During my CS degree, I enjoyed hosting an introductory educational cybersecurity conference - SCONES!
 - 🚩 My guilty pleasure is that I enjoy writing bash scripts 😛
 - 📫 How to get in touch: https://linkedin.com/in/z-saber
